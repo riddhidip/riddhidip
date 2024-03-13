@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @riddhidip
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects.
+- 📫 Email me at riddhidip7@gmail.com to reach me.
+- 😄 Pronouns: He/Him
